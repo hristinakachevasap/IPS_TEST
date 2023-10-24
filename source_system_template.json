@@ -17,8 +17,8 @@
                 "targetVariable": "entityIdSourceSystem"
             },
             {
-                "sourcePath": "$.test",
-                "targetPath": "$.test"
+                "sourcePath": "$.test1",
+                "targetPath": "$.test1"
             }
         ]
     },
